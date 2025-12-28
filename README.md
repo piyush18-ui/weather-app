@@ -1,7 +1,5 @@
 # weather-app
 
-# Weather App
-
 A simple Weather Forecast web application using HTML, CSS, JavaScript and OpenWeatherMap API.
 
 ## Features
